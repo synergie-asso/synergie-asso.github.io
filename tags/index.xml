@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Synergie Fr</title>
-    <link>https://synergie.gitlab.io/tags/</link>
+    <link>https://synergie-asso.github.io/tags/</link>
     <description>Recent content in Tags on Synergie Fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 10:05:24 +0200</lastBuildDate><atom:link href="https://synergie.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 10:05:24 +0200</lastBuildDate><atom:link href="https://synergie-asso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>event</title>
-      <link>https://synergie.gitlab.io/tags/event/</link>
+      <link>https://synergie-asso.github.io/tags/event/</link>
       <pubDate>Wed, 15 Jun 2022 10:05:24 +0200</pubDate>
       
-      <guid>https://synergie.gitlab.io/tags/event/</guid>
+      <guid>https://synergie-asso.github.io/tags/event/</guid>
       <description></description>
     </item>
     
