@@ -1,0 +1,21 @@
+{
+    "author": "GMicka",
+    "comments": {
+     "dependencies": {},
+     "devDependencies": {
+      "auto-changelog": "project",
+      "cssnano": "project",
+      "postcss-cli": "project",
+      "postcss-cssnext": "project",
+      "tachyons": "project"
+     }
+    },
+    "dependencies": {},
+    "description": "Custom Theme Ananke",
+    "devDependencies": {
+     "cssnano": "^3.10.0",
+     "postcss-cli": "^7.1.0",
+     "postcss-cssnext": "^2.10.0",
+     "tachyons": "^4.9.1"
+    }
+}

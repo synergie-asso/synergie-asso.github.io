@@ -1,0 +1,13 @@
+<div class="shortcode shortcode--google-maps">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.230393344798!2d2.3606284156381383!3d48.81566537928333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6718002cb5611%3A0x581b7c8cd0a77c3e!2sEPITA%20-%20School%20of%20Engineering%20and%20Computer%20Science!5e0!3m2!1ses!2sfr!4v1658225978677!5m2!1ses!2sfr"
+		width='{{ with .Get "width" }}{{.}}{{else}}100%{{end}}'
+		height='{{ with .Get "height" }}{{.}}{{else}}300px{{end}}'
+		scrolling='{{ with .Get "scrolling" }}{{.}}{{else}}no{{end}}'
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
