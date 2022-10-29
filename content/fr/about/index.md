@@ -1,18 +1,14 @@
 ---
-title: "About"
+title: "A propos"
 description: "Quelques mots sur l'association"
-# featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
     weight: 1
-# ---
-# 
-# {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 ---
 
 ## Qui sommes-nous ?
 
-L'association est composée d'étudiant.e.s de l'EPITA.
+L'association est composée d'étudiant.e.s de l'EPITA de l'ing1 à l'ing3 - 3ème à 5ème année sur le campus de Paris.
 
 Le bureau est composé au 25 octobre 2022 :
 

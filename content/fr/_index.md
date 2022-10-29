@@ -1,7 +1,7 @@
 ---
 title: "Synergie"
 
-description: "L’Association pour la mixité et la diversité dans l'informatique."
+description: "L’Association pour la mixité et la diversité dans l'informatique"
 cascade:
   featured_image: 'images/bckg2.jpg'
 
@@ -14,13 +14,15 @@ Synergie est une association à but non lucratif créée en mars 2015 afin d'am�
 
 Par le biais de l’association, nous souhaitons informer les jeunes filles de la possibilité d’accéder à ces carrières et susciter de l’intérêt pour l’informatique. Aussi, la diversité des membres de notre association leur présente des modèles auxquels se raccrocher.
 
+Nous nous portons aussi sur la sensibilisation au handicap et à toutes ses formes.
+
 En l'occurence, nos solutions sont :
 
 - Intervenir dans les établissements scolaires afin de partager notre parcours et expérience,
 - Organiser des ateliers mixtes d’initiation à l’informatique,
 - Participer à des événements pour partager nos inspirations, et échanger des idées,
 - Sensibiliser nos étudiants à la condition des femmes,
-- Favoriser les rencontres entre les étudiantes et professionnelles déjà dans le milieu.
+- Favoriser les rencontres entre les étudiantes, étudiants et professionnelles déjà dans le milieu.
 
 Ces enjeux se regroupent sur 3 axes:
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Évènements on Synergie Fr</title>
+    <title>Évènements on Synergie</title>
     <link>https://synergie-asso.github.io/events/</link>
-    <description>Recent content in Évènements on Synergie Fr</description>
+    <description>Recent content in Évènements on Synergie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://synergie-asso.github.io/events/index.xml" rel="self" type="application/rss+xml" />
@@ -17,12 +17,43 @@
     </item>
     
     <item>
-      <title>Rencontre Capgemini</title>
+      <title>Table ronde Capgemini</title>
       <link>https://synergie-asso.github.io/events/rencontre-capgemini/</link>
       <pubDate>Fri, 15 Apr 2022 10:05:24 +0200</pubDate>
       
       <guid>https://synergie-asso.github.io/events/rencontre-capgemini/</guid>
-      <description>Intervenantes : Raquel Mounier et Isabelle Tachet Synergie et CapGemini, une grande entreprise d’IT, ont le plaisir de vous convier à notre fameuse table ronde le 15 avril 2022 à 18h00 dans l’amphi 2 au campus du Kremlin-Bicêtre. Venez discuter avec nous de la diversité en entreprise et sur des thèmes comme bien se présenter, négocier son salaire, passer outre le syndrôme de l’imposteur et comment se protéger du harcèlement. C&amp;rsquo;était très inspirant, avec un énorme travail sur l&amp;rsquo;inclusion que nous pourions reproduire à l&amp;rsquo;EPITA !</description>
+      <description>Intervenantes : Raquel Mounier et Isabelle Tachet Synergie et Capgemini, une grande entreprise d’IT, ont le plaisir de vous convier à notre fameuse table ronde le 15 avril 2022 à 18h00 dans l’amphi 2 au campus du Kremlin-Bicêtre en bimodal. Venez discuter avec nous de la diversité en entreprise et sur des thèmes comme bien se présenter, négocier son salaire, passer outre le syndrôme de l’imposteur et comment se protéger du harcèlement.</description>
+    </item>
+    
+    <item>
+      <title>Projet Sentinelle</title>
+      <link>https://synergie-asso.github.io/events/projet-sentienelle/</link>
+      <pubDate>Wed, 01 Sep 2021 10:05:24 +0200</pubDate>
+      
+      <guid>https://synergie-asso.github.io/events/projet-sentienelle/</guid>
+      <description>L&amp;rsquo;association Synergie a créé ce projet pour veiller à la sécurité de chacune et chacun lors des soirées étudiantes organisées sur les campus du Kremlin-Bicêtre et Villejuif de l&amp;rsquo;EPITA. Nous avons lancé cette initiative au printemps 2021 avec l&amp;rsquo;aide du BDE de Paris en place à l&amp;rsquo;époque, Drama, pour les aider sur cette partie qui a été longtemps mise dans l&amp;rsquo;ombre.
+Nous avons donc dès lors eu des personnes de confiance de l&amp;rsquo;association aux soirées BDE pour être là, regarder autour et faire attention aux personnes présentes.</description>
+    </item>
+    
+    <item>
+      <title>Les soirées épitéennes</title>
+      <link>https://synergie-asso.github.io/events/soiree-epiteennes/</link>
+      <pubDate>Mon, 05 Jul 2021 10:05:24 +0200</pubDate>
+      
+      <guid>https://synergie-asso.github.io/events/soiree-epiteennes/</guid>
+      <description>Depuis sa création, l&amp;rsquo;association fait une soirée biannuelle entre épitéennes. Cela permet de se rencontrer, de créer du marrainage pendant la soirée entre les promotions, d&amp;rsquo;échanger ses expériences et ses tips. On peut aussi échanger de manière informelle avec les professeures et personnels de l&amp;rsquo;administration.
+Nous organisons cela autour d&amp;rsquo;un repas comme des raclettes, des BBQ, des salades à composer soi-même, etc.
+Notre affiche : </description>
+    </item>
+    
+    <item>
+      <title>Les rencontres Synerjeudis</title>
+      <link>https://synergie-asso.github.io/events/synerjeudi/</link>
+      <pubDate>Thu, 17 Jun 2021 10:05:24 +0200</pubDate>
+      
+      <guid>https://synergie-asso.github.io/events/synerjeudi/</guid>
+      <description>Nous sommes venus d&amp;rsquo;un constat pendant la période du COVID : les gens n&amp;rsquo;arrivent pas à échanger sur les sujets tabous, avec des opinions très extrêmes parfois. Derrière un écran et des mots écrits, il est plus facile d&amp;rsquo;en venir aux insultes, aux malentendus, aux incompréhensions, frustrations et plus&amp;hellip;
+Nous avons alors monté notre tout premier projet, les rencontres Synerjeudis. Cela consiste pendant 1 à 2 heures, un jeudi par mois, nous regroupons des étudiants sur un sujet donné et chacun donne alors son opinion, sa compréhension du sujet avec une personne neutre au milieu pour temporiser, redemander qu&amp;rsquo;une personne s&amp;rsquo;explique, donner la parole, demander qu&amp;rsquo;on laisse une personne parler, etc.</description>
     </item>
     
   </channel>

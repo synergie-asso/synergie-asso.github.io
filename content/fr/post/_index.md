@@ -1,9 +1,9 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
-draft: true
+title: "Articles et réflexions"
+date: 2021-04-01T12:00:00-05:00
+draft: false
 menu:
   main:
     weight: 3
 ---
-Exemple de liste d'article français.
+Nous postons ici des articles et sujets sur les thèmes et valeurs de l'association, écrits par les membres.
